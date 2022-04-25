@@ -6,6 +6,7 @@ help you to get special  4users name in instgram
 ```
 git clone https://github.com/blackaries506/fishing-usersname-instgram.git
 cd fishing-usersname-instgram
+python3 fishing users insta.py
 ```
  
 ### password
