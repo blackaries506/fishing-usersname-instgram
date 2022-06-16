@@ -16,6 +16,6 @@ python3 main.py
 ```
 
 ## Follow for update
-youtube https://www.youtube.com/channel/UC2tQEkquHAakyIv1Z7b-lDQ                                                                          
+youtube (https://www.youtube.com/channel/UC0adQ3tIVS20pO8dWovlaHw)                                                                       
 Telegram https://t.me/fuckyou506
 
